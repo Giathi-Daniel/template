@@ -340,7 +340,7 @@ Join the Word Cloud Board :cloud: :pencil2:
   </tr>
   <tr>
     <td><p align="center"><a href="https://github.com/Giathi-Daniel?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="(https://github.com/Giathi-Daniel/template?tab=README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/Giathi-Daniel/template?tab=README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr>
  </table>
  

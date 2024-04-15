@@ -81,9 +81,6 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
@@ -316,7 +313,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://i.imgur.com/ozEwbHs.gif"> -->
 
 <!--🖼️🖼️INTERSTLOGOS-->
-<p align="center">
+<!--<p align="center">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
@@ -327,7 +324,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-</h4>
+</h4> -->
 
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
